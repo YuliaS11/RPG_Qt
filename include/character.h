@@ -26,7 +26,7 @@ class Equipment; // Equipment, which can change stat, attack types, amongst
                  // other things. Also a subclass of Item
 class Element;   // Element such as fire, ice, etc.
 
-class Combat_Entity;   // Manage battle such as turn order amongst other things
+class Combat_Manager;   // Manage battle such as turn order amongst other things
 class General_Manager; // Manage items, character order, jobs, etc.
 
 enum class Char_Exception { JsonReadFail, JsonWriteFail };
@@ -49,6 +49,7 @@ public:
   static const vector<QString> stat_names;
 
 protected:
+  Combat_Manager *combat_Manager;
   QString default_name, first_name, last_name;
   vector<int> base_stats; // The base stats
   vector<int>
