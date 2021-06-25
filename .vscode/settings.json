@@ -1,0 +1,8 @@
+{
+    "C_Cpp.clang_format_sortIncludes": false,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
+}

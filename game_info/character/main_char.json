@@ -1,0 +1,118 @@
+{
+    "Tina_Aria": {
+        "first_name": "Tina",
+        "last_name": "Aria",
+        "HP": 100,
+        "MP": 200,
+        "ATK": 30,
+        "DEF": 20,
+        "MATK": 60,
+        "MDEF": 40,
+        "SPD": 21,
+        "LV": 3,
+        "EXP": 60,
+        "Faction": [
+            "Player",
+            "Mage"
+        ],
+        "BaseJob": "Sorcerer",
+        "BaseJobLevel": "",
+        "Persistent": true
+    },
+    "Saria_El": {
+        "first_name": "Saria",
+        "last_name": "El",
+        "HP": 200,
+        "MP": 100,
+        "ATK": 80,
+        "DEF": 30,
+        "MATK": 20,
+        "MDEF": 60,
+        "SPD": 35,
+        "LV": 5,
+        "EXP": 200,
+        "Faction": [
+            "Player",
+            "Angel"
+        ],
+        "BaseJob": "Monk",
+        "Persistent": true
+    },
+    "Kara_Parrino": {
+        "first_name": "Kara",
+        "last_name": "Parrino",
+        "HP": 100,
+        "MP": 175,
+        "ATK": 30,
+        "DEF": 20,
+        "MATK": 40,
+        "MDEF": 80,
+        "SPD": 18,
+        "LV": 5,
+        "EXP": 200,
+        "Faction": [
+            "Player",
+            "Angel"
+        ],
+        "BaseJob": "Priest",
+        "Persistent": true
+    },
+    "Myla_Kyrios": {
+        "first_name": "Myla",
+        "last_name": "Kyrios",
+        "HP": 100,
+        "MP": 300,
+        "ATK": 30,
+        "DEF": 20,
+        "MATK": 60,
+        "MDEF": 60,
+        "SPD": 21,
+        "LV": 10,
+        "EXP": 900,
+        "Faction": [
+            "Player",
+            "Mage"
+        ],
+        "BaseJob": "Arcanist",
+        "Persistent": true
+    },
+    "Carla_Kynigi": {
+        "first_name": "Carla",
+        "last_name": "Hynigi",
+        "HP": 300,
+        "MP": 100,
+        "ATK": 60,
+        "DEF": 60,
+        "MATK": 30,
+        "MDEF": 20,
+        "SPD": 25,
+        "LV": 7,
+        "EXP": 420,
+        "Faction": [
+            "Player",
+            "Amazon"
+        ],
+        "BaseJob": "Hunter",
+        "Persistent": true
+    },
+    "Alexa_Korilias": {
+        "first_name": "Alexa",
+        "last_name": "Korilias",
+        "HP": 200,
+        "MP": 200,
+        "ATK": 35,
+        "DEF": 35,
+        "MATK": 35,
+        "MDEF": 35,
+        "SPD": 35,
+        "LV": 15,
+        "EXP": 2100,
+        "Faction": [
+            "Player",
+            "Noble"
+        ],
+        "BaseJob": "Noble",
+        "BaseJobLevel":3,
+        "Persistent": true
+    }
+}
