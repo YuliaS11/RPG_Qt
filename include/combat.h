@@ -50,7 +50,7 @@ enum class Combat_Signal { Combat_Begin, Combat_End };
 class Combat_Manager {
 public:
 protected:
-  General_Manager general_manager;
+  General_Manager * general_manager;
   unsigned int gold; // The gold rewarded at the end of the battle.
   unsigned int exp;  // The exp rewarded at the end of the battle. EXP
                      // acquisition varies by each character.
